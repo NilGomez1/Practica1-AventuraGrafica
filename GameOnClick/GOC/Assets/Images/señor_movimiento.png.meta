@@ -1,0 +1,1070 @@
+fileFormatVersion: 2
+guid: 46bedaf6b7d66a3478010bc270142200
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5817048290492471550
+    second: "se\xF1or_movimiento_0"
+  - first:
+      213: -96356876151272111
+    second: "se\xF1or_movimiento_1"
+  - first:
+      213: 5890347036547597783
+    second: "se\xF1or_movimiento_2"
+  - first:
+      213: -2955116884569905378
+    second: "se\xF1or_movimiento_3"
+  - first:
+      213: 1570181206365251750
+    second: "se\xF1or_movimiento_4"
+  - first:
+      213: 2736249739874780859
+    second: "se\xF1or_movimiento_5"
+  - first:
+      213: 7494476500542929601
+    second: "se\xF1or_movimiento_6"
+  - first:
+      213: -5641526075978050924
+    second: "se\xF1or_movimiento_7"
+  - first:
+      213: 1530526800537512453
+    second: "se\xF1or_movimiento_8"
+  - first:
+      213: -2601905248048037754
+    second: "se\xF1or_movimiento_9"
+  - first:
+      213: -6241193667218531175
+    second: "se\xF1or_movimiento_10"
+  - first:
+      213: 7782145111091267447
+    second: "se\xF1or_movimiento_11"
+  - first:
+      213: 1816147733629197192
+    second: "se\xF1or_movimiento_12"
+  - first:
+      213: 1641792582452009019
+    second: "se\xF1or_movimiento_13"
+  - first:
+      213: 2201671075528512417
+    second: "se\xF1or_movimiento_14"
+  - first:
+      213: 8076567349913035856
+    second: "se\xF1or_movimiento_15"
+  - first:
+      213: 5306282857663000564
+    second: "se\xF1or_movimiento_16"
+  - first:
+      213: -6894534004385276032
+    second: "se\xF1or_movimiento_17"
+  - first:
+      213: 2151422859793412987
+    second: "se\xF1or_movimiento_18"
+  - first:
+      213: -1428988355154995669
+    second: "se\xF1or_movimiento_19"
+  - first:
+      213: 1203589395127384720
+    second: "se\xF1or_movimiento_20"
+  - first:
+      213: 1598492854588828937
+    second: "se\xF1or_movimiento_21"
+  - first:
+      213: 1375738004123392725
+    second: "se\xF1or_movimiento_22"
+  - first:
+      213: -8520245014817606506
+    second: "se\xF1or_movimiento_23"
+  - first:
+      213: -5533723227564048519
+    second: "se\xF1or_movimiento_24"
+  - first:
+      213: -1395490382961949213
+    second: "se\xF1or_movimiento_25"
+  - first:
+      213: -2758783694365762193
+    second: "se\xF1or_movimiento_26"
+  - first:
+      213: -651958584433172382
+    second: "se\xF1or_movimiento_27"
+  - first:
+      213: 1224282400233916606
+    second: "se\xF1or_movimiento_28"
+  - first:
+      213: -2295736618394345758
+    second: "se\xF1or_movimiento_29"
+  - first:
+      213: -800704910766795253
+    second: "se\xF1or_movimiento_30"
+  - first:
+      213: 3234700377094118446
+    second: "se\xF1or_movimiento_31"
+  - first:
+      213: -8850441704566535748
+    second: "se\xF1or_movimiento_32"
+  - first:
+      213: -6988232630696996085
+    second: "se\xF1or_movimiento_33"
+  - first:
+      213: -8239199224465844957
+    second: "se\xF1or_movimiento_34"
+  - first:
+      213: 5005897744724056042
+    second: "se\xF1or_movimiento_35"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_0"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 272
+        width: 41
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20727eb5661b54fa0800000000000000
+      internalID: -5817048290492471550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_1"
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 271
+        width: 37
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d46518eeba9aef0800000000000000
+      internalID: -96356876151272111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_2"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 270
+        width: 33
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5c13ddb67beb150800000000000000
+      internalID: 5890347036547597783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_3"
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 269
+        width: 38
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17a371b9d05df6d0800000000000000
+      internalID: -2955116884569905378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_4"
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 271
+        width: 41
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8256eec776ac510800000000000000
+      internalID: 1570181206365251750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_5"
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 270
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6cdf124ac19f520800000000000000
+      internalID: 2736249739874780859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_6"
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 270
+        width: 40
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cabf587baab10860800000000000000
+      internalID: 7494476500542929601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_7"
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 271
+        width: 41
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492993a8ce545b1b0800000000000000
+      internalID: -5641526075978050924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_8"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 177
+        width: 40
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ae04914068d3510800000000000000
+      internalID: 1530526800537512453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_9"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 177
+        width: 36
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6804fde56fc24ebd0800000000000000
+      internalID: -2601905248048037754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_10"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 177
+        width: 35
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c950b4d63d269a0800000000000000
+      internalID: -6241193667218531175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_11"
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 177
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77743293fbbbffb60800000000000000
+      internalID: 7782145111091267447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_12"
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 179
+        width: 39
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b599acdb0443910800000000000000
+      internalID: 1816147733629197192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_13"
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 177
+        width: 35
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b385ce7b7a1d8c610800000000000000
+      internalID: 1641792582452009019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_14"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 178
+        width: 37
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a31121ad28ed8e10800000000000000
+      internalID: 2201671075528512417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_15"
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 177
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054a518963bb51070800000000000000
+      internalID: 8076567349913035856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_16"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff6fb82524b3a940800000000000000
+      internalID: 5306282857663000564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_17"
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 91
+        width: 36
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f93c01ad1b150a0800000000000000
+      internalID: -6894534004385276032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_18"
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 91
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7334a731b36bdd10800000000000000
+      internalID: 2151422859793412987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_19"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 91
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2611de79a63b2ce0800000000000000
+      internalID: -1428988355154995669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_20"
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 91
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09abeff8d2204b010800000000000000
+      internalID: 1203589395127384720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_21"
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 91
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d64c538ccfe2610800000000000000
+      internalID: 1598492854588828937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_22"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 91
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da97cffc6a971310800000000000000
+      internalID: 1375738004123392725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_23"
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 91
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694f08c1d4202c980800000000000000
+      internalID: -8520245014817606506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_24"
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 91
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f77bf1b044433b0800000000000000
+      internalID: -5533723227564048519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_25"
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 91
+        width: 39
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5441ce3e832ace0800000000000000
+      internalID: -1395490382961949213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_26"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d503db8d4d6b9d0800000000000000
+      internalID: -2758783694365762193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_27"
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26028962f17c3f6f0800000000000000
+      internalID: -651958584433172382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_28"
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 4
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb884b24b568df010800000000000000
+      internalID: 1224282400233916606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_29"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2
+        width: 39
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee9fba75b7e320e0800000000000000
+      internalID: -2295736618394345758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_30"
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0695df302353e4f0800000000000000
+      internalID: -800704910766795253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_31"
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2
+        width: 41
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c5483dad6f3ec20800000000000000
+      internalID: 3234700377094118446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_32"
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 5
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9420e492aec2580800000000000000
+      internalID: -8850441704566535748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_33"
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b031387927fc40f90800000000000000
+      internalID: -6988232630696996085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_34"
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3251a0065fb78ad80800000000000000
+      internalID: -8239199224465844957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "se\xF1or_movimiento_35"
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2
+        width: 39
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7d438f975887540800000000000000
+      internalID: 5005897744724056042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 139a8e4326971b340bbe053fafe0af20
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "se\xF1or_movimiento_0": -5817048290492471550
+      "se\xF1or_movimiento_1": -96356876151272111
+      "se\xF1or_movimiento_10": -6241193667218531175
+      "se\xF1or_movimiento_11": 7782145111091267447
+      "se\xF1or_movimiento_12": 1816147733629197192
+      "se\xF1or_movimiento_13": 1641792582452009019
+      "se\xF1or_movimiento_14": 2201671075528512417
+      "se\xF1or_movimiento_15": 8076567349913035856
+      "se\xF1or_movimiento_16": 5306282857663000564
+      "se\xF1or_movimiento_17": -6894534004385276032
+      "se\xF1or_movimiento_18": 2151422859793412987
+      "se\xF1or_movimiento_19": -1428988355154995669
+      "se\xF1or_movimiento_2": 5890347036547597783
+      "se\xF1or_movimiento_20": 1203589395127384720
+      "se\xF1or_movimiento_21": 1598492854588828937
+      "se\xF1or_movimiento_22": 1375738004123392725
+      "se\xF1or_movimiento_23": -8520245014817606506
+      "se\xF1or_movimiento_24": -5533723227564048519
+      "se\xF1or_movimiento_25": -1395490382961949213
+      "se\xF1or_movimiento_26": -2758783694365762193
+      "se\xF1or_movimiento_27": -651958584433172382
+      "se\xF1or_movimiento_28": 1224282400233916606
+      "se\xF1or_movimiento_29": -2295736618394345758
+      "se\xF1or_movimiento_3": -2955116884569905378
+      "se\xF1or_movimiento_30": -800704910766795253
+      "se\xF1or_movimiento_31": 3234700377094118446
+      "se\xF1or_movimiento_32": -8850441704566535748
+      "se\xF1or_movimiento_33": -6988232630696996085
+      "se\xF1or_movimiento_34": -8239199224465844957
+      "se\xF1or_movimiento_35": 5005897744724056042
+      "se\xF1or_movimiento_4": 1570181206365251750
+      "se\xF1or_movimiento_5": 2736249739874780859
+      "se\xF1or_movimiento_6": 7494476500542929601
+      "se\xF1or_movimiento_7": -5641526075978050924
+      "se\xF1or_movimiento_8": 1530526800537512453
+      "se\xF1or_movimiento_9": -2601905248048037754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

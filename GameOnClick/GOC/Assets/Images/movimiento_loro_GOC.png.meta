@@ -1,0 +1,966 @@
+fileFormatVersion: 2
+guid: e2965907ca96fe244962c614cab45796
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3612269619431620367
+    second: movimiento_loro_GOC_0
+  - first:
+      213: -5221718824341790927
+    second: movimiento_loro_GOC_1
+  - first:
+      213: 5972080123222559379
+    second: movimiento_loro_GOC_2
+  - first:
+      213: 4425834478655213132
+    second: movimiento_loro_GOC_3
+  - first:
+      213: 4651109728628939530
+    second: movimiento_loro_GOC_4
+  - first:
+      213: 4079860659822806595
+    second: movimiento_loro_GOC_5
+  - first:
+      213: -897017134244403336
+    second: movimiento_loro_GOC_6
+  - first:
+      213: 7044855556827790528
+    second: movimiento_loro_GOC_7
+  - first:
+      213: 2649151643369750562
+    second: movimiento_loro_GOC_8
+  - first:
+      213: -4089549528204380030
+    second: movimiento_loro_GOC_9
+  - first:
+      213: 4705354040204838868
+    second: movimiento_loro_GOC_10
+  - first:
+      213: -2574726024013994312
+    second: movimiento_loro_GOC_11
+  - first:
+      213: 7809018411513013754
+    second: movimiento_loro_GOC_12
+  - first:
+      213: -6603542180333103232
+    second: movimiento_loro_GOC_13
+  - first:
+      213: -93036559249287295
+    second: movimiento_loro_GOC_14
+  - first:
+      213: 325020903239188184
+    second: movimiento_loro_GOC_15
+  - first:
+      213: -2336658940087194373
+    second: movimiento_loro_GOC_16
+  - first:
+      213: -276145891523996416
+    second: movimiento_loro_GOC_17
+  - first:
+      213: 77897576036628628
+    second: movimiento_loro_GOC_18
+  - first:
+      213: 1342227366910695025
+    second: movimiento_loro_GOC_19
+  - first:
+      213: 1609393809463839241
+    second: movimiento_loro_GOC_20
+  - first:
+      213: -5559327169740669100
+    second: movimiento_loro_GOC_21
+  - first:
+      213: -7201971738790034463
+    second: movimiento_loro_GOC_22
+  - first:
+      213: -8091423031806555182
+    second: movimiento_loro_GOC_23
+  - first:
+      213: 6014130987304268696
+    second: movimiento_loro_GOC_24
+  - first:
+      213: -8812050274263487733
+    second: movimiento_loro_GOC_25
+  - first:
+      213: 6550182615286086112
+    second: movimiento_loro_GOC_26
+  - first:
+      213: -897036601569705367
+    second: movimiento_loro_GOC_27
+  - first:
+      213: -1182050448300030586
+    second: movimiento_loro_GOC_28
+  - first:
+      213: -1876771366964721175
+    second: movimiento_loro_GOC_29
+  - first:
+      213: 1521835142121883352
+    second: movimiento_loro_GOC_30
+  - first:
+      213: 6000937979837280031
+    second: movimiento_loro_GOC_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0c7d47be3aeddc0800000000000000
+      internalID: -3612269619431620367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 302
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f1326256ab887b0800000000000000
+      internalID: -5221718824341790927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 302
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a0ada0b3711e250800000000000000
+      internalID: 5972080123222559379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 302
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e8bee5209bb6d30800000000000000
+      internalID: 4425834478655213132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 302
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b9a42d7af0c8040800000000000000
+      internalID: 4651109728628939530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 302
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34644d177a39e9830800000000000000
+      internalID: 4079860659822806595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 302
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8776ce34ba72d83f0800000000000000
+      internalID: -897017134244403336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 302
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc38aebdca54c160800000000000000
+      internalID: 7044855556827790528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 201
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2204233426da3c420800000000000000
+      internalID: 2649151643369750562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 203
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288f2081f500f37c0800000000000000
+      internalID: -4089549528204380030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 202
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7cbdcc196cc4140800000000000000
+      internalID: 4705354040204838868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 202
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b621b8925cb44cd0800000000000000
+      internalID: -2574726024013994312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_12
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 202
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5e7be0fd43f5c60800000000000000
+      internalID: 7809018411513013754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 202
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087dfe1cf518b54a0800000000000000
+      internalID: -6603542180333103232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 202
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18752d60eb775bef0800000000000000
+      internalID: -93036559249287295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_15
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 202
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8def52a1ac4b28400800000000000000
+      internalID: 325020903239188184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcacdaf215829fd0800000000000000
+      internalID: -2336658940087194373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 102
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005578556ceea2cf0800000000000000
+      internalID: -276145891523996416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 102
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498f684ce6fb41100800000000000000
+      internalID: 77897576036628628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 102
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1761584cdac80a210800000000000000
+      internalID: 1342227366910695025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_20
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 102
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a0ecc8427b55610800000000000000
+      internalID: 1609393809463839241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_21
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 102
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ffd69c46d49d2b0800000000000000
+      internalID: -5559327169740669100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_22
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 102
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3840b7cd47d0c90800000000000000
+      internalID: -7201971738790034463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_23
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 102
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db81cd6f9d75bf80800000000000000
+      internalID: -8091423031806555182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893b0fac44c767350800000000000000
+      internalID: 6014130987304268696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_25
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b24abb6fe45b580800000000000000
+      internalID: -8812050274263487733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9f01e526ce6ea50800000000000000
+      internalID: 6550182615286086112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9620aeca6f51d83f0800000000000000
+      internalID: -897036601569705367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_28
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6854c7a4163889fe0800000000000000
+      internalID: -1182050448300030586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_29
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e98173a26e54f5e0800000000000000
+      internalID: -1876771366964721175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_30
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d681ecaff4ae1510800000000000000
+      internalID: 1521835142121883352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimiento_loro_GOC_31
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fe95f5c4d974350800000000000000
+      internalID: 6000937979837280031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d9af634ad1d3f2342b9d6de834b46b1b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":4.0},"gridSpriteSize":{"x":77.0,"y":100.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      movimiento_loro_GOC_0: -3612269619431620367
+      movimiento_loro_GOC_1: -5221718824341790927
+      movimiento_loro_GOC_10: 4705354040204838868
+      movimiento_loro_GOC_11: -2574726024013994312
+      movimiento_loro_GOC_12: 7809018411513013754
+      movimiento_loro_GOC_13: -6603542180333103232
+      movimiento_loro_GOC_14: -93036559249287295
+      movimiento_loro_GOC_15: 325020903239188184
+      movimiento_loro_GOC_16: -2336658940087194373
+      movimiento_loro_GOC_17: -276145891523996416
+      movimiento_loro_GOC_18: 77897576036628628
+      movimiento_loro_GOC_19: 1342227366910695025
+      movimiento_loro_GOC_2: 5972080123222559379
+      movimiento_loro_GOC_20: 1609393809463839241
+      movimiento_loro_GOC_21: -5559327169740669100
+      movimiento_loro_GOC_22: -7201971738790034463
+      movimiento_loro_GOC_23: -8091423031806555182
+      movimiento_loro_GOC_24: 6014130987304268696
+      movimiento_loro_GOC_25: -8812050274263487733
+      movimiento_loro_GOC_26: 6550182615286086112
+      movimiento_loro_GOC_27: -897036601569705367
+      movimiento_loro_GOC_28: -1182050448300030586
+      movimiento_loro_GOC_29: -1876771366964721175
+      movimiento_loro_GOC_3: 4425834478655213132
+      movimiento_loro_GOC_30: 1521835142121883352
+      movimiento_loro_GOC_31: 6000937979837280031
+      movimiento_loro_GOC_4: 4651109728628939530
+      movimiento_loro_GOC_5: 4079860659822806595
+      movimiento_loro_GOC_6: -897017134244403336
+      movimiento_loro_GOC_7: 7044855556827790528
+      movimiento_loro_GOC_8: 2649151643369750562
+      movimiento_loro_GOC_9: -4089549528204380030
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
